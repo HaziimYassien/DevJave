@@ -1,0 +1,15 @@
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/bin/Debug/net8.0/SandBox1
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/bin/Debug/net8.0/SandBox1.deps.json
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/bin/Debug/net8.0/SandBox1.runtimeconfig.json
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/bin/Debug/net8.0/SandBox1.dll
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/bin/Debug/net8.0/SandBox1.pdb
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.AssemblyInfoInputs.cache
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.AssemblyInfo.cs
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.csproj.CoreCompileInputs.cache
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.sourcelink.json
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.dll
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/refint/SandBox1.dll
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.pdb
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/SandBox1.genruntimeconfig.cache
+/home/hazem/Documents/GitHub/LINQ SandBox/SandBox1/obj/Debug/net8.0/ref/SandBox1.dll

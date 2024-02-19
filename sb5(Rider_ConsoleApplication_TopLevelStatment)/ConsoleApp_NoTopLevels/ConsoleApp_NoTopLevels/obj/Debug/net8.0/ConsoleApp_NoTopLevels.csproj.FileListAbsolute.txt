@@ -1,0 +1,15 @@
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/bin/Debug/net8.0/ConsoleApp_NoTopLevels
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/bin/Debug/net8.0/ConsoleApp_NoTopLevels.deps.json
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/bin/Debug/net8.0/ConsoleApp_NoTopLevels.runtimeconfig.json
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/bin/Debug/net8.0/ConsoleApp_NoTopLevels.dll
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/bin/Debug/net8.0/ConsoleApp_NoTopLevels.pdb
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.GeneratedMSBuildEditorConfig.editorconfig
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.AssemblyInfoInputs.cache
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.AssemblyInfo.cs
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.csproj.CoreCompileInputs.cache
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.sourcelink.json
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.dll
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/refint/ConsoleApp_NoTopLevels.dll
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.pdb
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ConsoleApp_NoTopLevels.genruntimeconfig.cache
+/home/hazem/Documents/GitHub/SandBoxes2/sb9(Rider_ConsoleApplication_TopLevelStatment)/ConsoleApp_NoTopLevels/ConsoleApp_NoTopLevels/obj/Debug/net8.0/ref/ConsoleApp_NoTopLevels.dll
