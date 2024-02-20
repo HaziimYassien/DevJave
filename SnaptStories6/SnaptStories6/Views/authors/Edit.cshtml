@@ -1,0 +1,99 @@
+﻿@model SnaptStories6.Models.author
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>author</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="authorID" />
+            <div class="form-group">
+                <label asp-for="authorName" class="control-label"></label>
+                <input asp-for="authorName" class="form-control" />
+                <span asp-validation-for="authorName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorDescription" class="control-label"></label>
+                <input asp-for="authorDescription" class="form-control" />
+                <span asp-validation-for="authorDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorEmail" class="control-label"></label>
+                <input asp-for="authorEmail" class="form-control" />
+                <span asp-validation-for="authorEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorPassword" class="control-label"></label>
+                <input asp-for="authorPassword" class="form-control" />
+                <span asp-validation-for="authorPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorPhoneNumber" class="control-label"></label>
+                <input asp-for="authorPhoneNumber" class="form-control" />
+                <span asp-validation-for="authorPhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorImage" class="control-label"></label>
+                <input asp-for="authorImage" class="form-control" />
+                <span asp-validation-for="authorImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorStatus" class="control-label"></label>
+                <input asp-for="authorStatus" class="form-control" />
+                <span asp-validation-for="authorStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorUrl" class="control-label"></label>
+                <input asp-for="authorUrl" class="form-control" />
+                <span asp-validation-for="authorUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorFacebook" class="control-label"></label>
+                <input asp-for="authorFacebook" class="form-control" />
+                <span asp-validation-for="authorFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorTwitter" class="control-label"></label>
+                <input asp-for="authorTwitter" class="form-control" />
+                <span asp-validation-for="authorTwitter" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorLinkedin" class="control-label"></label>
+                <input asp-for="authorLinkedin" class="form-control" />
+                <span asp-validation-for="authorLinkedin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorYoutube" class="control-label"></label>
+                <input asp-for="authorYoutube" class="form-control" />
+                <span asp-validation-for="authorYoutube" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="authorInstagram" class="control-label"></label>
+                <input asp-for="authorInstagram" class="form-control" />
+                <span asp-validation-for="authorInstagram" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfShortStories" class="control-label"></label>
+                <input asp-for="NumberOfShortStories" class="form-control" />
+                <span asp-validation-for="NumberOfShortStories" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

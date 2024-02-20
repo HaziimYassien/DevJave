@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SnaptStories6.props" />
+</Project>

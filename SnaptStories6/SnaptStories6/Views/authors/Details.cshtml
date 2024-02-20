@@ -1,0 +1,102 @@
+﻿@model SnaptStories6.Models.author
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>author</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorDescription)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorPassword)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorPassword)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorPhoneNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorPhoneNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorImage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorImage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorStatus)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorUrl)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorUrl)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorFacebook)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorFacebook)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorTwitter)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorTwitter)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorLinkedin)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorLinkedin)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorYoutube)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorYoutube)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.authorInstagram)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.authorInstagram)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumberOfShortStories)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfShortStories)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.authorID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

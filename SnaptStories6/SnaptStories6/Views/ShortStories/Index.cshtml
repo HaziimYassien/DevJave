@@ -1,0 +1,71 @@
+﻿@model IEnumerable<SnaptStories6.Models.ShortStory>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryLink)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryAuthor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortStoryReleaseDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryLink)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryAuthor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortStoryReleaseDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ShortStoryID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ShortStoryID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ShortStoryID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

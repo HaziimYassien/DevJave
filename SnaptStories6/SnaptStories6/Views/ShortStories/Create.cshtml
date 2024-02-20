@@ -1,0 +1,63 @@
+﻿@model SnaptStories6.Models.ShortStory
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ShortStory</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ShortStoryName" class="control-label"></label>
+                <input asp-for="ShortStoryName" class="form-control" />
+                <span asp-validation-for="ShortStoryName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortStoryText" class="control-label"></label>
+                <input asp-for="ShortStoryText" class="form-control" />
+                <span asp-validation-for="ShortStoryText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortStoryImage" class="control-label"></label>
+                <input asp-for="ShortStoryImage" class="form-control" />
+                <span asp-validation-for="ShortStoryImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortStoryLink" class="control-label"></label>
+                <input asp-for="ShortStoryLink" class="form-control" />
+                <span asp-validation-for="ShortStoryLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortStoryAuthor" class="control-label"></label>
+                <input asp-for="ShortStoryAuthor" class="form-control" />
+                <span asp-validation-for="ShortStoryAuthor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortStoryDescription" class="control-label"></label>
+                <input asp-for="ShortStoryDescription" class="form-control" />
+                <span asp-validation-for="ShortStoryDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortStoryReleaseDate" class="control-label"></label>
+                <input asp-for="ShortStoryReleaseDate" class="form-control" />
+                <span asp-validation-for="ShortStoryReleaseDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

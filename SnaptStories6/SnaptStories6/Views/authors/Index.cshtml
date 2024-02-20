@@ -1,0 +1,113 @@
+﻿@model IEnumerable<SnaptStories6.Models.author>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.authorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorFacebook)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorTwitter)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorLinkedin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorYoutube)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.authorInstagram)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfShortStories)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorPhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorFacebook)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorTwitter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorLinkedin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorYoutube)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.authorInstagram)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberOfShortStories)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.authorID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.authorID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.authorID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
