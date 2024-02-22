@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\Contoso2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7777D-B60E-4A3E-B595-5FC008D60671}|Contoso2\\Contoso2.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\contoso2\\contoso2\\contoso2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0B7777D-B60E-4A3E-B595-5FC008D60671}|Contoso2\\Contoso2.csproj|solutionrelative:contoso2\\contoso2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B7777D-B60E-4A3E-B595-5FC008D60671}|Contoso2\\Contoso2.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\contoso2\\contoso2\\lecturenotes\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0B7777D-B60E-4A3E-B595-5FC008D60671}|Contoso2\\Contoso2.csproj|solutionrelative:contoso2\\lecturenotes\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contoso2",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\Contoso2\\Contoso2\\Contoso2.csproj",
+              "RelativeDocumentMoniker": "Contoso2\\Contoso2.csproj",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\Contoso2\\Contoso2\\Contoso2.csproj",
+              "RelativeToolTip": "Contoso2\\Contoso2.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-21T20:30:37.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\Contoso2\\Contoso2\\LectureNotes\\notes.txt",
+              "RelativeDocumentMoniker": "Contoso2\\LectureNotes\\notes.txt",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\Contoso2\\Contoso2\\LectureNotes\\notes.txt",
+              "RelativeToolTip": "Contoso2\\LectureNotes\\notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-21T20:29:25.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

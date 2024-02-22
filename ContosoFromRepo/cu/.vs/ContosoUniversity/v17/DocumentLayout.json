@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E80C79-4C14-42CD-864A-24713385B71B}|ContosoUniversity.csproj|c:\\cool stuff\\aspnetcore.docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E80C79-4C14-42CD-864A-24713385B71B}|ContosoUniversity.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 134,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
+              "ToolTip": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:06:22.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
