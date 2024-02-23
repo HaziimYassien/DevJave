@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\ContosoUniversity.csproj": {}
+    "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\ContosoFromRepo\\cu\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\ContosoUniversity.csproj": {
+    "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\ContosoFromRepo\\cu\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\ContosoFromRepo\\cu\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\ContosoFromRepo\\cu\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\hazii\\.nuget\\packages\\",
-        "outputPath": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\obj\\",
+        "outputPath": "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\ContosoFromRepo\\cu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\",
+  "WorkspaceRootPath": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\ContosoFromRepo\\cu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3E80C79-4C14-42CD-864A-24713385B71B}|ContosoUniversity.csproj|c:\\cool stuff\\aspnetcore.docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3E80C79-4C14-42CD-864A-24713385B71B}|ContosoUniversity.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\contosofromrepo\\cu\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E80C79-4C14-42CD-864A-24713385B71B}|ContosoUniversity.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\Data\\SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\ContosoFromRepo\\cu\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
-              "ToolTip": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\ContosoFromRepo\\cu\\Data\\SchoolContext.cs",
               "RelativeToolTip": "Data\\SchoolContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T22:06:22.685Z",
               "EditorCaption": ""

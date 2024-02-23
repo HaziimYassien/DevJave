@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9Rg33BSnSuoRn3THhtMOS0iGYsDiBblnm1rOLW4DFTa+DiAjSLqYrHDO8lR7ufz4bcOBCqgIxdBafqoGq96sw==",
+  "dgSpecHash": "XE+i8K97jkkNonR8CHMyWFhWESy0zXU09yFIvoLniF825kYGwHUZxVd3po7Si/llegw+IPZd+D64k/HZ9IpifA==",
   "success": true,
-  "projectFilePath": "C:\\cool stuff\\AspNetCore.Docs\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\ContosoFromRepo\\cu\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hazii\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\hazii\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
