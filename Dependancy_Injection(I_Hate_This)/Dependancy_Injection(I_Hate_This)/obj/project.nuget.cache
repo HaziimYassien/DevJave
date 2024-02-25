@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pOJ3nPSvaz3w7c1pNQZ7ObZHfeVBg/9Fuinev2PFRPmYOnZyKcouLN7R/VT1EsDBl9rkGCerhErpSJwgw6cYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\Dependancy_Injection(I_Hate_This)\\Dependancy_Injection(I_Hate_This)\\Dependancy_Injection(I_Hate_This).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hazii\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\hazii\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\hazii\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

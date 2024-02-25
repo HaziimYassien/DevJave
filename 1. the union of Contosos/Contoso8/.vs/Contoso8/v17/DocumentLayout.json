@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contoso8\\contoso8\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|solutionrelative:contoso8\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contoso8\\contoso8\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|solutionrelative:contoso8\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contoso8\\contoso8\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|solutionrelative:contoso8\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contoso8\\contoso8\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711952BD-6363-45CC-B130-B3C507F4A51A}|Contoso8\\Contoso8.csproj|solutionrelative:contoso8\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Contoso8\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Contoso8\\Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:25:19.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Contoso8\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Models\\Course.cs",
+              "RelativeToolTip": "Contoso8\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:24:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Contoso8\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Contoso8\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:24:30.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Contoso8\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\Contoso8\\Contoso8\\Models\\Student.cs",
+              "RelativeToolTip": "Contoso8\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:22:37.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

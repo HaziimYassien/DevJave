@@ -1,0 +1,15 @@
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\bin\Debug\net8.0\Dependancy_Injection(I_Hate_This).exe
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\bin\Debug\net8.0\Dependancy_Injection(I_Hate_This).deps.json
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\bin\Debug\net8.0\Dependancy_Injection(I_Hate_This).runtimeconfig.json
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\bin\Debug\net8.0\Dependancy_Injection(I_Hate_This).dll
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\bin\Debug\net8.0\Dependancy_Injection(I_Hate_This).pdb
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).AssemblyInfoInputs.cache
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).AssemblyInfo.cs
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).csproj.CoreCompileInputs.cache
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).sourcelink.json
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).dll
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\refint\Dependancy_Injection(I_Hate_This).dll
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).pdb
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\Dependancy_Injection(I_Hate_This).genruntimeconfig.cache
+C:\Users\hazii\OneDrive\Документы\GitHub\DevJave\Dependancy_Injection(I_Hate_This)\Dependancy_Injection(I_Hate_This)\obj\Debug\net8.0\ref\Dependancy_Injection(I_Hate_This).dll
