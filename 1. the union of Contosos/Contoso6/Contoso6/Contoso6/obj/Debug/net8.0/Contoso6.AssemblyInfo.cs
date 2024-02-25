@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contoso6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c02e0cc85a47913cb6a4d46def3762f27a6f658")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd7588a49124cb04b04c5d2e10b280254d5af18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contoso6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contoso6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

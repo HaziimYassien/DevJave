@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cZYL0tXLg9zyGG9b5zExf/EVfMiKDmLQcj3wVpzOcWU0tZhSzHnfW+V/X63oDGwlISc/TtRtKymA4saJKkau3g==",
+  "dgSpecHash": "xj5JdxkdtNmJ1kLNBxxiYlnilR9hClyR+qWq/VoOhD6fO0QY7LBulMuowHeMhd/FndtskKfjq9/r6H2QeHdTAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hazii\\OneDrive\\Документы\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession2)\\ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj",
   "expectedPackageFiles": [
@@ -57,5 +57,16 @@
     "C:\\Users\\hazii\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\hazii\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

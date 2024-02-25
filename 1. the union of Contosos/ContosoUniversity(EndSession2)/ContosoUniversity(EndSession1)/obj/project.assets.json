@@ -2449,6 +2449,7 @@
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.26",
+      "Microsoft.Data.SqlClient >= 2.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.26",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.26"
     ]
@@ -2515,6 +2516,10 @@
             "target": "Package",
             "version": "[6.0.26, )"
           },
+          "Microsoft.Data.SqlClient": {
+            "target": "Package",
+            "version": "[2.1.4, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.26, )"
@@ -2546,5 +2551,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
