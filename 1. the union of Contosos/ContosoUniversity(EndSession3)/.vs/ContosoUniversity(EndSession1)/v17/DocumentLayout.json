@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contosouniversity(endsession3)\\contosouniversity(endsession1)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|solutionrelative:contosouniversity(endsession1)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contosouniversity(endsession3)\\contosouniversity(endsession1)\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|solutionrelative:contosouniversity(endsession1)\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contosouniversity(endsession3)\\contosouniversity(endsession1)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession3)\\contosouniversity(endsession1)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|solutionrelative:contosouniversity(endsession1)\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\1. the union of contosos\\contosouniversity(endsession3)\\contosouniversity(endsession1)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E07FB4F-B4CF-432C-AFF9-49F6E0B6E637}|ContosoUniversity(EndSession1)\\ContosoUniversity(EndSession1).csproj|solutionrelative:contosouniversity(endsession1)\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession3)\\ContosoUniversity(EndSession1)\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity(EndSession1)\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession3)\\ContosoUniversity(EndSession1)\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "ContosoUniversity(EndSession1)\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T23:00:12.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession3)\\ContosoUniversity(EndSession1)\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "ContosoUniversity(EndSession1)\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\1. the union of Contosos\\ContosoUniversity(EndSession3)\\ContosoUniversity(EndSession1)\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "ContosoUniversity(EndSession1)\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBYAAAASAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T22:31:22.227Z",
               "EditorCaption": ""
