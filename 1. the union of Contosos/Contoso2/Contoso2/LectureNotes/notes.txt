@@ -1,5 +1,0 @@
-﻿we are currently studying the data access layer
-
-we will add a folder called data
-
-we have also studied the fluent api

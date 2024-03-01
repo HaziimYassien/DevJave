@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\TypeScript_SandBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB4A44D-B75C-4093-A3CC-1C499C6BED6D}|TypeScript_SandBox\\TypeScript_SandBox.esproj|c:\\users\\hazii\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\devjave\\typescript_sandbox\\typescript_sandbox\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EEB4A44D-B75C-4093-A3CC-1C499C6BED6D}|TypeScript_SandBox\\TypeScript_SandBox.esproj|solutionrelative:typescript_sandbox\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1086,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\TypeScript_SandBox\\TypeScript_SandBox\\app.js",
+              "RelativeDocumentMoniker": "TypeScript_SandBox\\app.js",
+              "ToolTip": "C:\\Users\\hazii\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\DevJave\\TypeScript_SandBox\\TypeScript_SandBox\\app.js",
+              "RelativeToolTip": "TypeScript_SandBox\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-27T08:02:09.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
